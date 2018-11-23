@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-slick",
-  "version": "1.2.15",
+  "name": "nodebb-theme-slick#die-linke",
+  "version": "1.2.15-0",
   "nbbpm": {
     "compatibility": "^1.10.0"
   },
-  "description": "Slick theme for NodeBB",
+  "description": "Slick theme fork for NodeBB - DIE LINKE",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pichalite/nodebb-theme-slick.git"
+    "url": "git+https://github.com/chiratoss/nodebb-theme-slick.git"
   },
   "keywords": [
     "nodebb",
@@ -21,12 +21,12 @@
     "email": "pichalite.com@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/pichalite/nodebb-theme-slick/issues"
+    "url": "https://github.com/chiratoss/nodebb-theme-slick/issues"
   },
   "maintainers": [
     {
-      "name": "pichalite",
-      "email": "pichalite.com@gmail.com"
+      "name": "chiratoss",
+      "email": "t.boegelein@gmx.net"
     }
   ]
 }
