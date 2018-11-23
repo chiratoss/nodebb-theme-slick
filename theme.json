@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-slick",
-    "name": "Slick theme",
-    "description": "Slick theme for NodeBB",
-    "url": "https://github.com/pichalite/nodebb-theme-slick",
+    "id": "nodebb-theme-slick#die-linke",
+    "name": "Slick theme fork - DIE LINKE",
+    "description": "Slick theme fork for NodeBB",
+    "url": "https://github.com/chiratoss/nodebb-theme-slick",
     "screenshot": "screenshot.png"
 }
